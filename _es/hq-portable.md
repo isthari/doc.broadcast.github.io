@@ -8,24 +8,18 @@ redirect_from:
 ---
 
 {% include base_path %}
-Esta sección
+Esta sección describe la instalación y configuración de la imagen para la utilización del software en Raspberry PI con pantalla táctil de 3.5" o 7"
 
-Istharti is a Software as a Service (SaaS) solution for Big Data and analytics.
+El primer paso es descargar la imagen del software de la siguiente dirección [Descarga](https://isthari-hq.s3.amazonaws.com/hq-portable.img)
 
-You no longer need to worry about installing, configuring and maintaining your Big Data Environment and you can just focus on Data and Analytics
+A continuación es necesario descarga e instalar el software necesario para copiar la imagen a la tarjeta SD [Descargar Balena)[https://www.balena.io/etcher/]
 
+TODO copiar la imagen a la tarjeta
 
-The solution support end-to-end Big Data pipelines: ETL to ingest data from on premise or cloud datasources, Notebooks for data scientist, Spark for batch or streaming and integration with your existing Business Intelligence Tools 
+TODO configurar el ususario y contraseña
 
-The Isthari solution is a serverless Big Data platforms. This means that when your Big Data environments are idle you will have no resources running in the cloud. When a user submit a Big Data analytics workload a new environment is automatically provisioned and the cloud, and it will be destroyed once it finish the job.
+TODO arrancar la raspberry
 
-This way you can running analytics workloads faster, by providing more resources, but also cheaper, reducing and eliminating idle times
+TODO pantallazo (pulse para iniciar)
 
-What is next?
-
-* [Data ingestion]({{ base_path }}/quick_start_guide/data-ingestion)
-* [Notebook]({{ base_path }}/quick_start_guide/notebook)
-* [Business Intelligence Integration]({{ base_path }}/quick_start_guide/business-intelligence-integration)
-
----
-
+TODO pantallazo una vez activo
