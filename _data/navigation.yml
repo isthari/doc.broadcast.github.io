@@ -1,0 +1,15 @@
+# main links links
+main:
+  - title: "ES"
+    url: /es/introduction
+    # TODO aqui va el multi-idioma
+es:
+  - title: Contenido
+    children: 
+      - title: "Introduccion"
+        url: /es/introduction
+
+  - title: Instalación
+    children: 
+      - title: "HQ Portable"
+        url: /es/hq-portable
