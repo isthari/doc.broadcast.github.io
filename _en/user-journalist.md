@@ -15,7 +15,7 @@ On the top side you have the connection status
 
 ... and the new of the Studio user you are connected with
 
-|![](status.png)|
+|![](/en/user-journalist/status.png)|
 |:--:|
 |*Connection status*|
 
@@ -34,7 +34,7 @@ In the next row you can control the gain of your microphone and speakers. **Warn
 
 If you have several audio interfaces, for example and USB Audio mixer or professional Microphone, you can select which one to use clicking on the drop down menu
 
-|![](status.png)|
+|![](/en/user-journaliststatus.png)|
 |:--:|
 |*Audio input / output*|
 
@@ -42,7 +42,7 @@ You can mute / unmute your microphone clicking on the following icon.
 
 Note: this option needs to be enabled for your user. For further details [visit the section](/en/admin-journalist)
 
-|![](mute.png)|
+|![](/en/user-journalistmute.png)|
 |:--:|
 |*Mute / unmute*|
 
@@ -54,13 +54,13 @@ Note: this options needs to be enabled for your user. For further details [visit
 
 Click on "Add file" button
 
-|![](add-file-1.png)|
+|![](/en/user-journalistadd-file-1.png)|
 |:--:|
 |*Add files*|
 
 Select the audio files on your local disk and click "Accept"
 
-|![](add-file-2.png)|
+|![](/en/user-journalistadd-file-2.png)|
 |:--:|
 |*Select audio files*|
 
@@ -70,12 +70,12 @@ At any time you can click the play icon.
 
 Your microphone will automatically mute and you will start to send your file as your local audio to the studio
 
-|![](play.png)|
+|![](/en/user-journalistplay.png)|
 |:--:|
 |*Play local file*|
 
 If you don't want your microphone to mute, you can uncheck the "Auto mute" check box
 
-|![](automute.png)|
+|![](/en/user-journalistautomute.png)|
 |:--:|
 |*Auto mute check box*|

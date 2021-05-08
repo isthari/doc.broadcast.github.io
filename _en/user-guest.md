@@ -12,19 +12,19 @@ The guest user profile allows the login into the application with a single link.
 
 To create a guest user, login as a Studio User. On the bottom left panel click "Temporal user"
 
-|![](temporal-menu.png)
+|![](/en/user-guest/temporal-menu.png)
 |:--:|
 |*Click on temporal users*|
 
 Click "New" to create your new user
 
-|![](new.png)|
+|![](/en/user-guest/new.png)|
 |:--:|
 |*Create new user*|
 
 Type your new user name and click "Accept"
 
-|![](new-2.png)|
+|![](/en/user-guest/new-2.png)|
 |:--:|
 |*Type user name*|
 
@@ -36,7 +36,7 @@ Now you can copy your link to share with your users
 
 Then click close
 
-|![](new-3.png)|
+|![](/en/user-guest/new-3.png)|
 |:--:|
 |*Share guest user link*|
 
@@ -46,6 +46,6 @@ Your guest only need to open the link  either in his web browser or mobile devic
 
 You can review your existing guest users at any time. With their names and expire date. If you need to recover the link, click on the eye icon next to the user name
 
-|![](table.png)|
+|![](/en/user-guest/table.png)|
 |:--:|
 |*Review existing guest users*|
