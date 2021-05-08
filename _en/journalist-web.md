@@ -34,7 +34,7 @@ Now click "Click to start" to start the Studio application
 
 Now your journalist is in waiting call state
 
-|![](waiting.png)|
+|![](/en/journalist-web/waiting.png)|
 |:--:|
 |*Waiting*|
 
