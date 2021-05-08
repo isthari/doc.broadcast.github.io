@@ -38,7 +38,7 @@ Now your studio is ready to start making live connections to your journalists an
 |:--:|
 |*Studio*|
 
-If you want to know more about the Studio, just visit the [Studio guide](/user/studio)
+If you want to know more about the Studio, just visit the [Studio guide](/en/user-studio)
 
-[Next Journalist](../journalist-web)
+[Next Journalist]((/en/journalist-web)
 
