@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-The guest user profile allow the login into the application with a single link. It's mainly for one-time users like politicians, artists, sport players ... This link is only valid for 7 days
+The guest user profile allows the login into the application with a single link. It's mainly for one-time users like politicians, artists, sport players ... This link is only valid for 7 days
 
 To create a guest user, login as a Studio User. On the bottom left panel click "Temporal user"
 

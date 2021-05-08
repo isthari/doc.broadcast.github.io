@@ -24,27 +24,27 @@ en:
       - title: "Guests"
         url: /en/user-guest
       - title: "Journalist"
-        url: /en/user/journalist
+        url: /en/user-journalist
       - title: "Studio"
-        url: /en/user/studio
+        url: /en/user-studio
   - title: Admin
     children:
       - title: "Intro"
-        url: /en/admin/intro
+        url: /en/admin-intro
       - title: "Users"
-        url: /en/admin/users
+        url: /en/admin-users
       - title: "Administrators"
-        url: /en/admin/admin
+        url: /en/admin-admin
       - title: "Journalist"
-        url: /en/admin/journalist
+        url: /en/admin-journalist
       - title: "Studio"
-        url: /en/admin/studio
+        url: /en/admin-studio
       - title: "Guest"
-        url: /en/admin/guest
+        url: /en/admin-guest
       - title: "Groups"
-        url: /en/admin/groups
+        url: /en/admin-groups
       - title: "Login audit"
-        url: /en/admin/login_audit
+        url: /en/admin-login_audit
 es:
   - title: Contenido
     children: 

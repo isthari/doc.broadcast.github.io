@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 This quick start guide will teach you the first steps with the HQ Reporter. At the end of this guide you will be able to connect live to your journalists
 
-Open this [link https://hq.isthari.com](https://hq.isthari.com) with your Chrome or Microsoft Edge web browser
+Open this link [https://hq.isthari.com](https://hq.isthari.com) with your Chrome or Microsoft Edge web browser
 
 Then enter your username and password and click "Login"
 

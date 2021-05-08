@@ -41,5 +41,5 @@ Now you are connect with your user. Just click "On Air 1" group to move your use
 
 When you finish your call, you can click "Cancel" to hang up the communication
 
-If you want to know more about the Studio, just visit the [Studio guide](/user/studio)
+If you want to know more about the Studio, just visit the [Studio guide](/en/user-studio)
 

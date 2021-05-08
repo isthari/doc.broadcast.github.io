@@ -22,7 +22,7 @@ Now install the application
 |:--:|
 |*Tap install*|
 
-... or you can install the application into your android mobile directly from the web [Install application](https://play.google.com/store/apps/details?id=com.isthari.hqreporter&gl=EN) Just click on the install button
+... or you can install the application into your android mobile directly from the web [Install application](https://play.google.com/store/apps/details?id=com.isthari.hqreporter) Just click on the install button
 
 |![](web-install.png)|
 |:--:|
