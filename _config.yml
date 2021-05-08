@@ -112,6 +112,7 @@ author:
 # Reading Files
 include:
   - .htaccess
+  - _en
   - _es
   - _pages
   - _user_guide
@@ -171,6 +172,9 @@ collections:
   admin_guide:
     output: true
     permalink: /:collection/:path/
+  en:
+    output: true
+    permalink: /:collection/:path/
   es:
     output: true
     permalink: /:collection/:path/
@@ -208,6 +212,18 @@ defaults:
       author_profile: false
       sidebar:
         nav: "user_guide"
+  # _en
+  - scope:
+      path: ""
+      type: "en"
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: true
+      comments: false
+      sidebar:
+        nav: "en"
   # _es
   - scope:
       path: ""

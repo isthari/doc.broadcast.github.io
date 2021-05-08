@@ -1,13 +1,80 @@
 # main links links
 main:
+  - title: "EN"
+    url: /en/introduction
   - title: "ES"
     url: /es/introduction
     # TODO aqui va el multi-idioma
+en:
+  - title: Quick start 
+    children:
+      - title: "Studio"
+        url: /en/studio
+      - title: "Journalist web"
+        url: /en/journalist-web"
+      - title: "Journalist Android"
+        url: /en/journalist-android"
+      - title: "Journalist iPhone"
+        url: /en/journalist-iphone
+      - title: "Live connection"
+        url: /en/live-connection"
+
+  - title: User
+    children:
+      - title: "Guests"
+        url: /en/user-guest
+      - title: "Journalist"
+        url: /en/user/journalist
+      - title: "Studio"
+        url: /en/user/studio
+  - title: Admin
+    children:
+      - title: "Intro"
+        url: /en/admin/intro
+      - title: "Users"
+        url: /en/admin/users
+      - title: "Administrators"
+        url: /en/admin/admin
+      - title: "Journalist"
+        url: /en/admin/journalist
+      - title: "Studio"
+        url: /en/admin/studio
+      - title: "Guest"
+        url: /en/admin/guest
+      - title: "Groups"
+        url: /en/admin/groups
+      - title: "Login audit"
+        url: /en/admin/login_audit
 es:
   - title: Contenido
     children: 
       - title: "Introduccion"
         url: /es/introduction
+
+  - title: Usuario
+    children:
+      - title: "Invitado"
+        url: /es/guest
+      - title: "Periodista"
+        url: /es/journalist
+      - title: "Estudio"
+        url: /es/studio
+      - title: "Administrador"
+        url: /es/admin
+
+  - title: Estudio
+    children:
+      - title: Introducción
+        url: /es/studio-intro
+      - title: Controles audio
+        url: /es/studio-audio-controls
+      - title: Matriz audio
+        url: /es/studio-matrix
+      - title: Invitados
+        url: /es/guest
+      - title: SIP / VoIP
+        url: /es/studio-sip
+
 
   - title: Instalación
     children: 
