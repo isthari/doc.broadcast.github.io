@@ -44,7 +44,7 @@ en:
       - title: "Groups"
         url: /en/admin-groups
       - title: "Login audit"
-        url: /en/admin-login_audit
+        url: /en/admin-login-audit
 es:
   - title: Contenido
     children: 
