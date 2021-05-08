@@ -2,7 +2,6 @@
 title: "Journalist"
 permalink: /en/user-journalist
 excerpt: "Journalist"
-modified: 2016-04-13T15:54:02-04:00
 redirect_from:
   - /theme-setup/
 ---
