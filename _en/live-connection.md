@@ -21,7 +21,7 @@ You can review the different sections in the Studio UI
   * On Air X, You can talk to your users. You are listening your users. Users in the same On Air Group can listen to each others. All the connections in the same On Air group are available in one audio output, using the embedded mix-minus
 5. Vu-meter and fader for each connection
 
-|![](studio-details.png)
+|![](/en/live-connection/studio-details.png)
 |:--:|
 |*Studio*|
 
@@ -29,13 +29,13 @@ You can review the different sections in the Studio UI
 
 Now it's time to make a new call ! Click on your user name of the left side panel (panel 1). A new dialog to select the desired bitrate will pop up. Click accept
 
-|![](bitrate.png)
+|![](/en/live-connection/bitrate.png)
 |:--:|
 |*Select bitrate*|
 
 Now you are connect with your user. Just click "On Air 1" group to move your user to On Air.
 
-|![](connected.png)
+|![](/en/live-connection/connected.png)
 |:--:|
 |*Connected*|
 
