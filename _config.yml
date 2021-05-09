@@ -220,7 +220,7 @@ defaults:
       layout: single
       read_time: false
       author_profile: false
-      share: true
+      share: false 
       comments: false
       sidebar:
         nav: "en"

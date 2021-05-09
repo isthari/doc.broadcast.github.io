@@ -12,13 +12,12 @@ en:
         url: /en/studio
       - title: "Journalist web"
         url: /en/journalist-web"
+      - title: "Live connection"
+        url: /en/live-connection"
       - title: "Journalist Android"
         url: /en/journalist-android"
       - title: "Journalist iPhone"
         url: /en/journalist-iphone
-      - title: "Live connection"
-        url: /en/live-connection"
-
   - title: User
     children:
       - title: "Guests"

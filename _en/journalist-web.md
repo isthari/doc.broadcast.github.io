@@ -37,10 +37,4 @@ Now your journalist is in waiting call state
 |:--:|
 |*Waiting*|
 
-If you want to know more about the Journalist, just visit the [Journalist guide](/en/user-journalist)
-
-Next [Android](/en/journalist-android)
-
-Next [iPhone](/en/journalist-iphone)
-
 Next [Live connection!](/en/live-connection)
