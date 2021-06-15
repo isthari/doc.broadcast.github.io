@@ -15,6 +15,8 @@ Mute, this option enables the mute button in the web UI
 
 Mix channels, this option enables the mix channel button in the web UI. Sometimes you need to connect an USB audio mixer with 2 mono microphones, 1 on left channel and 1 on right channels. With this option you can send both audios on both channels
 
+Force mix channels, the mix channels option is activated by default. If user has access to the mix channels button can disable it.
+
 Playlist, with this option enabled the user can add local audio file as part of the live connection
 
 |![](/en/admin-journalist/general.png)|
