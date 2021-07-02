@@ -11,7 +11,7 @@ redirect_from:
 Esta sección describe la instalación y configuración de la imagen para la utilización del software en Raspberry PI con pantalla táctil de 3.5" o 7"
 
 El primer paso es descargar la imagen del software en función de la pantalla seleccionada:
-* Pantalla de 3.5" [Descarga](https://isthari-hq.s3.amazonaws.com/hq-portable-3.5.img)
+* Pantalla de 3.5" [Descarga](https://isthari-hq.s3.amazonaws.com/hq-portable-35-v3.1.2.img)
 * Pantalla de 7" [Descarga](https://isthari-hq.s3.amazonaws.com/hq-portable-7.img)
 
 A continuación es necesario descarga e instalar el software para copiar la imagen a la tarjeta SD [Descargar Balena](https://www.balena.io/etcher/)
